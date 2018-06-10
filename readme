@@ -1,0 +1,17 @@
+# go-pool
+
+goroutine pool optimization for large-scale concurrent
+
+## solved
+
+  * large-scale concurrent situation over 100m conncetions
+  * ddos
+
+## based on
+
+  * goroutine reuse
+  * I/O multiplexing
+
+## licence
+
+  Unlicensed
